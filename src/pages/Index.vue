@@ -72,6 +72,8 @@
         is already a routine.
       </p>
 
+      <h2>Reusable Rockets 🚀</h2>
+
       <p>
         SpaceX makes their rockets from scratch. They keep the outsourcing cost low by
         building roughly 80% from the parts of a rocket in their own factory. In one end
@@ -100,6 +102,8 @@
         the first rocket booster that has ever been used for multiple human
         launches.
       </p>
+
+      <h2>The Starship</h2>
 
       <p>
         As of 2021, SpaceX is actively developing the Starship system, with the
