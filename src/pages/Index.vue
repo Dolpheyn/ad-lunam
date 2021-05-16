@@ -1,11 +1,13 @@
 <template>
   <q-page class="page">
-    <h1 class="text-h2">Ad Lunam 🌑</h1>
+    <h1 class="text-h1">Ad Lunam 🌑</h1>
     <span class="text-h5">
       The story of the human civilization going to the moon–again, this time
       powered by low cost, reusable rockets.
     </span>
     <div class="text-body1 q-mt-xl">
+
+      <h2>Human and Space Chronicle</h2>
 
       <p>
         Our 🌟space🌟 story started in the 20th century, during the Cold War.
@@ -31,14 +33,14 @@
         again, like when we first sailed across the ocean. However, for the next
         49 years, the people-on-the-moon count is stil...12, and we don't have
         anything new planned, at all. The Space Race was just two giants being
-        cocky during a war crisis after all. After it ended with one's satisfied
+        cocky during a war crisis, after all. After it ended with one's satisfied
         ego, and the other's shame, the two nations don't find it worth to spend
         their fortunes to go beyond the orbit anymore.
       </p>
 
       <p>
-        Fortunately, that was the case until <span class="bank-gothic text-h6">SpaceX</span>
-        shows up.
+        Fortunately, that was the case only until <span class="bank-gothic text-h6">SpaceX</span>
+        showed up.
       </p>
 
       <h2>History of <span class="bank-gothic">SpaceX</span></h2>
@@ -48,7 +50,6 @@
         <span class="text-strike">
           manufactures and launches the world’s most advanced
         </span>
-
         makes and launches cool and badass rockets . The company was founded in
         2002 by Elon Musk to revolutionize space transportation,
 
@@ -68,29 +69,35 @@
         early as 2017. <span class="text-bold">One of SpaceX’s most notable
         history-making moments was when its first stage rocket—the Falcon
         9🚀—became the first one to launch, then autonomously landed upright
-        on its feet.</span> Now in 2021, watching SpaceX landing its rockets
-        is already a routine.
+        on its feet.</span> Now in 2021, landing its rockets is already a
+        routine for SpaceX.
       </p>
 
       <h2>Reusable Rockets 🚀</h2>
 
       <p>
-        SpaceX makes their rockets from scratch. They keep the outsourcing cost low by
-        building roughly 80% from the parts of a rocket in their own factory. In one end
-        of their factory comes the raw materials, in the other end, rockets. One study
-        by NASA and the Air Force estimated that the price tag of the process, from
-        designing to the launching of the Falcon 9 rocket, was about a third of what it
-        would have cost NASA.
+        <span class="bank-gothic text-h6">SpaceX</span> makes their rockets from
+        scratch. They keep the outsourcing cost low by building roughly 80% from
+        the parts of a rocket in their own factory. In one end of their factory
+        comes the raw materials, in the other end, rockets. One study by NASA
+        and the Air Force estimated that
+        <span class="text-bold">
+          the price tag of the process, from designing to the launching of the
+          Falcon 9 rocket, was about a third of what it would have cost NASA,
+          shaving millions of dollars off of each launches.
+        </span>
       </p>
 
+      <!-- Make reuse flight number reusable -->
       <p>
         To reach Musk’s ultimate goal, he figured space travelling costs should be
         lowered, by a lot. So, he made his rockets reusable. After recovery from
         landing, the rockets must be able to be refurbished and reflown in minimal
-        time and with minimal cost. Only then can they be reflown, reducing launch
-        costs significantly. SpaceX have been successfully doing this. Until May
-        of 2021, SpaceX’s reused flights count is at 61, with the booster with the
-        highest flight count being the B1051, sitting at 9 launches.
+        time, and with minimal cost. Only then can they be reflown, reducing launch
+        costs significantly. Not surprisingly, Musk and SpaceX have been
+        successfully doing this. Until May of 2021, SpaceX’s reused flights
+        count is at 61, with the booster at the highest flight count being the
+        B1051, sitting at <span class="text-bold">10 launches!</span>
       </p>
 
       <p>
