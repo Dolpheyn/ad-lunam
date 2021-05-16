@@ -21,8 +21,8 @@
         Soviets–made an international space show by dumping their money to prove
         to the world who has the better technology. The space programs were
         televised to show off their greatness to the world, simultaneously
-        making their rival pissed off. For almost a decade later, we saw the
-        giants furiously sending men to space, ending with the US sending Neil
+        pissing their rival off. For almost a decade later, we saw the giants
+        furiously sending men to space, ending with the US sending Neil
         Armstrong to the moon in July of 1969. This continued to the year 1972,
         an by then we have sent a total of 12 humans to walk on the moon.
       </p>
