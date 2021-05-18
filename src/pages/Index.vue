@@ -137,12 +137,6 @@ export default {
   word-wrap: break-word;
 }
 
-@media (min-width: 576px) {
-  .page {
-      max-width: 540px;
-  }
-}
-
 @media (min-width: 786px) {
   .page {
       max-width: 720px;
