@@ -19,7 +19,7 @@
       <p>
         NASA was born short after. For the next years, two giants–the US and the
         Soviets–made an international space show by dumping their money to prove
-        to the world who has the better technology. The space programs were
+        who has the better technology to the world. The space programs were
         televised to show off their greatness to the world, simultaneously
         pissing their rival off. For almost a decade later, we saw the giants
         furiously sending men to space, ending with the US sending Neil
