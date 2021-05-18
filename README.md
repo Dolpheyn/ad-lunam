@@ -22,8 +22,17 @@ npm run lint
 
 ### Build the app for production
 
+This will build to `dist/spa`
+
 ```bash
 quasar build
+```
+
+This script will move `dist/spa` to `dist` and remove everything in
+`dist/spa/*`. This script is used in deployment to Vercel.
+
+```bash
+npm run build
 ```
 
 ### Customize the configuration
