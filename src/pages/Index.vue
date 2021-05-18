@@ -73,6 +73,10 @@
         routine for SpaceX.
       </p>
 
+      <p class="text-center text-overline">
+        Timeline of SpaceX's history and notable achievements.
+      </p>
+
       <iframe
         src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1wBuiAfJ11_6MMXc2kgYp-gD8JL3_CxxZz03sLfV4E8U&font=Default&lang=en&initial_zoom=2&height=650'
         width='100%'
