@@ -1,7 +1,7 @@
 {
   "name": "ad-lunam",
-  "version": "0.0.1",
-  "description": "SpaceX API Data Visualization",
+  "version": "0.0.4",
+  "description": "SpaceX Data Storytelling, SpaceX API Data Visualization",
   "productName": "Ad Lunam",
   "author": "Dolpheyn <farissufyan99@gmail.com>",
   "private": true,
