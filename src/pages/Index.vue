@@ -49,9 +49,9 @@
         <span class="bank-gothic text-h6">SpaceX</span>
         <span class="text-strike">
           manufactures and launches the world’s most advanced
-        </span>
-        makes and launches cool and badass rockets . The company was founded in
-        2002 by Elon Musk to revolutionize space transportation,
+        </span> makes and launches
+        <span class="text-italic"> cool and badass rockets</span>. The company
+        was founded in 2002 by Elon Musk to revolutionize space transportation,
 
         <span class="text-bold">
           with the ultimate goal of making life multiplanetary.
@@ -66,10 +66,10 @@
         in Earth orbit in 2008. Since then, the company has continued to
         impress, launching unmanned cargo vehicles to the International Space
         Station (ISS) and winning a contract from NASA to fly astronauts as
-        early as 2017. <span class="text-bold">One of SpaceX’s most notable
-        history-making moments was when its first stage rocket—the Falcon
-        9🚀—became the first one to launch, then autonomously landed upright
-        on its feet.</span> Now in 2021, landing its rockets is already a
+        early as 2017. One of SpaceX’s most notable history-making moments was
+        when its first stage rocket—the Falcon 9🚀—became the first one to
+        launch, <span class="text-bold">then autonomously landed upright on its
+          feet.</span> Now in 2021, landing its rockets is already a
         routine for SpaceX.
       </p>
 
@@ -93,13 +93,12 @@
         <span class="bank-gothic text-h6">SpaceX</span> makes their rockets from
         scratch. They keep the outsourcing cost low by building roughly 80% from
         the parts of a rocket in their own factory. In one end of their factory
-        comes the raw materials, in the other end, rockets. One study by NASA
-        and the Air Force estimated that
-        <span class="text-bold">
-          the price tag of the process, from designing to the launching of the
-          Falcon 9 rocket, was about a third of what it would have cost NASA,
-          shaving millions of dollars off of each launches.
-        </span>
+        comes the raw materials, in the other end,
+        <span class="text-italic">rockets</span>. One study by NASA and the Air
+        Force estimated that the price tag of the process, from designing to the
+        launching of the Falcon 9 rocket, was about
+        <span class="text-bold">a third of</span> what it would have cost NASA,
+        shaving millions of dollars off of each launches.
       </p>
 
       <!-- Make reuse flight number reusable -->
@@ -169,6 +168,10 @@ export default {
   margin: 50px auto;
   padding: 0 40px;
   word-wrap: break-word;
+}
+
+.text-body1 {
+  font-size: 1.1rem;
 }
 
 @media (min-width: 786px) {
