@@ -124,6 +124,15 @@
         launches.
       </p>
 
+      <p>
+        SpaceX's reusable rockets are already proven to be safe, flight proven
+        and have been used by many customers around the world. Their
+        customers includes big names like NASA, the USAF, and South Korea! These
+        customers have been using SpaceX's services for launching surveillance,
+        and scientific satellites. Let's explore who have been using SpaceX's
+        reusable rokets thar are provided by their services.
+      </p>
+
       <h2>The Starship</h2>
 
       <p>
