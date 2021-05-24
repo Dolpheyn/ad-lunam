@@ -136,6 +136,13 @@
         SpaceX launches, grouped by their customers and mission categories.
       </p>
 
+      <q-banner rounded class="bg-purple-4 text-white q-mb-md">
+        <p class="text-bold text-h6 q-mt-md"><q-icon name="info" class="q-mr-sm"/>Tip</p>
+        <p style="font-size: 1.05rem">
+        You can hover on the mission names to get more information.
+        </p>
+      </q-banner>
+
       <iframe
         width="100%"
         height="1060"
