@@ -134,7 +134,7 @@
       </p>
 
       <p class="text-center text-overline">
-        SpaceX's launches, grouped by their customers and mission categories.
+        SpaceX launches, grouped by their customers and mission categories.
       </p>
 
       <iframe
