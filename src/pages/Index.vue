@@ -139,7 +139,7 @@
 
       <iframe
         width="100%"
-        height="500"
+        height="1060"
         frameborder="0"
         src="https://observablehq.com/embed/d65ba7542711e4bf?cells=chart"
       />
@@ -152,7 +152,7 @@
         replace all of its existing launch vehicles and spacecraft used for
         satellite delivery and human transport—Falcon 9, Falcon Heavy and
         Dragon—and also eventually support flights to the Moon and Mars. In
-        addition it could be used for point-to-point transportation on Earth.
+        addition, it could be used for point-to-point transportation on Earth.
       </p>
     </div>
   </q-page>
