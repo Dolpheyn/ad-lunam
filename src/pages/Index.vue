@@ -133,6 +133,17 @@
         reusable rokets thar are provided by their services.
       </p>
 
+      <p class="text-center text-overline">
+        SpaceX's launches, grouped by their customers and mission categories.
+      </p>
+
+      <iframe
+        width="100%"
+        height="500"
+        frameborder="0"
+        src="https://observablehq.com/embed/d65ba7542711e4bf?cells=chart"
+      />
+
       <h2>The Starship</h2>
 
       <p>
