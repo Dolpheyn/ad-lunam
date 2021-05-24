@@ -1,7 +1,7 @@
 <template>
-  <q-layout view="hHh lpR fFf">
+  <q-layout view="hHh LpR fFf">
 
-    <q-header elevated class="bg-white text-black">
+    <q-header reveal elevated class="bg-white text-black">
       <q-toolbar>
         <q-btn dense flat round icon="menu" @click="left = !left" />
 
@@ -14,7 +14,7 @@
       </q-toolbar>
     </q-header>
 
-    <q-drawer show-if-above v-model="left" side="left" bordered>
+    <q-drawer show-if-above v-model="left" side="left" overlay bordered>
       <!-- drawer content -->
       <ul>
         <li>Introduction</li>
