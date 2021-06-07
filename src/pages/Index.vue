@@ -137,17 +137,21 @@
         greatest version of the Falcon 9 and Falcon Heavy rocket family's
         boosters. They have stronger heat shield, upgraded engines, new carbon
         composite sections, retracable landing legs, and you know, other cool
-        reusable rocket stuffs.
+        reusable rocket stuffs. Block 5 boosters' name starts with "B1" with
+        trailing numbers for identity purposes. They are the only ones that have
+        ever reached more than 3 launch counts.
       </p>
+
+      <!-- Bar chart of Block 5 boosters with their launches -->
 
       <p>
         In April 2020, SpaceX made yet another first in history by flying 4
-        astronauts in the Crew-2 mission with NASA with reused, or termed by NASA,
-        “flight proven” rocket. SpaceX's Falcon 9 booster that launched the Crew-1
-        mission in November 2020 is brought to port after landing on an automatic
-        drone ship at sea. This booster is reused for the Crew-2 mission, being
-        the first rocket booster that has ever been used for multiple human
-        launches.
+        astronauts in the Crew-2 mission with NASA with reused, or termed by
+        NASA, “flight proven” rocket. SpaceX's Falcon 9 booster that launched
+        the Crew-1 mission in November 2020—booster B1061—is brought to port
+        after landing on an automatic drone ship at sea. This booster is reused
+        for the Crew-2 mission, being the first rocket booster that has ever
+        been used for multiple human launches.
       </p>
 
       <p>
