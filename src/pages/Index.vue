@@ -89,6 +89,17 @@
 
       <h2>Reusable Rockets 🚀</h2>
 
+      <figure>
+        <img
+          src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Falcon9_rocket_family.svg"
+          alt="Falcon 9 rocket family"
+          style="border: 5px solid #555; width: 100%;"
+        >
+        <em>
+        <figcaption>The Falcon 9 rocket family | image: wikimedia</figcaption>
+      </em>
+      </figure>
+
       <p>
         <span class="bank-gothic text-h6">SpaceX</span> makes their rockets from
         scratch. They keep the outsourcing cost low by building roughly 80% from
@@ -101,7 +112,6 @@
         shaving millions of dollars off of each launches.
       </p>
 
-      <!-- Make reuse flight number reusable -->
       <p>
         To reach Musk’s ultimate goal, he figured space travelling costs should be
         lowered, by a lot. So, he made his rockets reusable. After recovery from
