@@ -182,13 +182,26 @@
 
       <h2>The Starship</h2>
 
+      <figure>
+        <img
+          src="https://imgix.bustle.com/uploads/image/2021/4/19/1b2d4014-5a46-403f-a494-b18759fd8a29-for_press_release.jpg"
+          alt="Illustration of SpaceX's lunar lander on the moon."
+          style="width: 100%;"
+        >
+        <em>
+        <figcaption>Illustration of Spacex's Spaceship lunar lander on the moon,
+          as per proposal to NASA for its Artemis program. | image: SpaceX</figcaption>
+      </em>
+      </figure>
+
       <p>
-        As of 2021, SpaceX is actively developing the Starship system, with the
-        intent to make it a fully-reusable two-stage launch vehicle, intended to
-        replace all of its existing launch vehicles and spacecraft used for
-        satellite delivery and human transport—Falcon 9, Falcon Heavy and
-        Dragon—and also eventually support flights to the Moon and Mars. In
-        addition, it could be used for point-to-point transportation on Earth.
+        As of 2021, <span class="bank-gothic text-h6">SpaceX</span> is actively
+        developing the Starship system, with the intent to make it a
+        fully-reusable two-stage launch vehicle, intended to replace all of its
+        existing launch vehicles and spacecraft used for satellite delivery and
+        human transport—Falcon 9, Falcon Heavy and Dragon—and also eventually
+        support flights to the Moon and Mars. In addition, it could be used for
+        point-to-point transportation on Earth.
       </p>
     </div>
   </q-page>
