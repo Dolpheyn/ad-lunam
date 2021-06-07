@@ -218,10 +218,11 @@ export default {
   margin: 50px auto;
   padding: 0 40px;
   word-wrap: break-word;
+  font-family: Helvetica, sans-serif;
 }
 
 .text-body1 {
-  font-size: 1.1rem;
+  font-size: 1.15rem;
 }
 
 @media (min-width: 786px) {
@@ -234,5 +235,9 @@ export default {
   .page {
       max-width: 1100px;
   }
+}
+
+figcaption {
+  color: #626262;
 }
 </style>
