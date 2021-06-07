@@ -154,9 +154,12 @@
         SpaceX's reusable rockets are already proven to be safe, flight proven
         and have been used by many customers around the world. Their
         customers includes big names like NASA, the USAF, and South Korea! These
-        customers have been using SpaceX's services for launching surveillance,
-        and scientific satellites. Let's explore who have been using SpaceX's
-        reusable rokets thar are provided by their services.
+        customers have been using SpaceX's services for launching communication,
+        surveillance, and scientific satellites,
+        <span><a href="https://en.wikipedia.org/wiki/Commercial_Resupply_Services">
+        sending cargo and supplies to the ISS</a></span>, and more. Let's explore who
+        have been using SpaceX's reusable rokets thar are provided by their
+        services.
       </p>
 
       <p class="text-center text-overline">
