@@ -2,15 +2,15 @@
   <q-page class="page">
     <h1 class="text-h1">Ad Lunam 🌑</h1>
     <span class="text-h5">
-      The story of the human civilization going to the moon–again, this time
-      powered by low cost, reusable rockets.
+      Can the human civilization going to the moon–again, this time
+      powered by low cost, reusable rockets?
     </span>
     <div class="text-body1 q-mt-xl">
 
-      <h2>Human and Space Chronicle</h2>
+      <h2>The Human and Space Chronicle</h2>
 
       <p>
-        Our 🌟space🌟 story started in the 20th century, during the Cold War.
+        Our space story started in the 20th century, during the Cold War.
         The Soviets launched the first ever man-made object into orbit, the
         Sputnik 1, after advancements in space technology made possible by the
         WWII.  This event triggered what we know today as the Space Race.
@@ -24,7 +24,7 @@
         pissing their rival off. For almost a decade later, we saw the giants
         furiously sending men to space, ending with the US sending Neil
         Armstrong to the moon in July of 1969. This continued to the year 1972,
-        an by then we have sent a total of 12 humans to walk on the moon.
+        and by then we have sent a total of 12 humans to walk on the moon.
       </p>
 
       <p>
