@@ -124,6 +124,23 @@
       </p>
 
       <p>
+        So, boosters are the first stage of the two-stage rocket launch vehicle
+        that SpaceX builds. Boosters burns rocket fuels at liftoff, up the rocket
+        goes, it accelerates the rocket, and get detached at some point before
+        continuing to orbit on its own path. Of course, for SpaceX's boosters
+        they then land autonomously on a groud landing pad or a drone landing
+        ship at the sea.
+      </p>
+
+      <p>
+        <span class="text-bold">Block 5</span> is the name of the latest and
+        greatest version of the Falcon 9 and Falcon Heavy rocket family's
+        boosters. They have stronger heat shield, upgraded engines, new carbon
+        composite sections, retracable landing legs, and you know, other cool
+        reusable rocket stuffs.
+      </p>
+
+      <p>
         In April 2020, SpaceX made yet another first in history by flying 4
         astronauts in the Crew-2 mission with NASA with reused, or termed by NASA,
         “flight proven” rocket. SpaceX's Falcon 9 booster that launched the Crew-1
