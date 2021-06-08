@@ -113,14 +113,14 @@
       </p>
 
       <p>
-        To reach Musk’s ultimate goal, he figured space travelling costs should be
-        lowered, by a lot. So, he made his rockets reusable. After recovery from
-        landing, the rockets must be able to be refurbished and reflown in minimal
-        time, and with minimal cost. Only then can they be reflown, reducing launch
-        costs significantly. Not surprisingly, Musk and SpaceX have been
-        successfully doing this. Until May of 2021, SpaceX’s reused flights
-        count is at 61, with the booster at the highest flight count being the
-        B1051, sitting at <span class="text-bold">10 launches!</span>
+        To reach Musk’s ultimate goal, he figured space travelling costs should
+        be lowered, by a lot. He wanted to make his rockets reusable. After
+        recovery from landing, the rockets must be able to be refurbished and
+        reflown in minimal time, and with minimal cost. Only then can they be
+        reflown, reducing launch costs significantly. Not surprisingly, Musk and
+        SpaceX have been successfully doing this. Until May of 2021, SpaceX’s
+        reused flights count is at 61, with the booster at the highest flight
+        count being the B1051, sitting at <span class="text-bold">10 launches!</span>
       </p>
 
       <p>
