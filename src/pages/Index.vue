@@ -143,6 +143,7 @@
       </p>
 
       <!-- Bar chart of Block 5 boosters with their launches -->
+      <BoosterLaunchesBarChart class="q-my-lg" />
 
       <p>
         In April 2020, SpaceX made yet another first in history by flying 4
@@ -212,8 +213,12 @@
 </template>
 
 <script>
+import BoosterLaunchesBarChart from '../components/Charts/BoosterLaunchesBarChart'
 export default {
-  name: 'PageIndex'
+  name: 'PageIndex',
+  components: {
+    BoosterLaunchesBarChart,
+  }
 }
 </script>
 
