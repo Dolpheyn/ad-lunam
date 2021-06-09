@@ -20,7 +20,7 @@ export default {
           stacked: true,
         },
         title: {
-          text: 'Block 5 Booster Launches'
+          text: 'Block 5 Booster Launches by Boosters'
         },
         xaxis: {
           categories: []
