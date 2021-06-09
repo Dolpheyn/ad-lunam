@@ -142,8 +142,8 @@
         ever reached more than 3 launch counts.
       </p>
 
-      <!-- Bar chart of Block 5 boosters with their launches -->
-      <BoosterLaunchesBarChart class="q-my-lg" />
+      <q-card class="q-pa-md q-my-md"><BoosterLaunchesBarChart/></q-card>
+      <q-card class="q-pa-md q-my-md"><BoosterLaunchesPieChart/></q-card>
 
       <p>
         In April 2020, SpaceX made yet another first in history by flying 4
@@ -163,7 +163,7 @@
         surveillance, and scientific satellites,
         <span><a href="https://en.wikipedia.org/wiki/Commercial_Resupply_Services">
         sending cargo and supplies to the ISS</a></span>, and more. Let's explore who
-        have been using SpaceX's reusable rokets thar are provided by their
+        have been using SpaceX's reusable rokets that are provided by their
         services.
       </p>
 
@@ -214,10 +214,12 @@
 
 <script>
 import BoosterLaunchesBarChart from '../components/Charts/BoosterLaunchesBarChart'
+import BoosterLaunchesPieChart from '../components/Charts/BoosterLaunchesPieChart'
 export default {
   name: 'PageIndex',
   components: {
     BoosterLaunchesBarChart,
+    BoosterLaunchesPieChart,
   }
 }
 </script>
