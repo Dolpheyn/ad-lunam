@@ -205,9 +205,26 @@
         developing the Starship system, with the intent to make it a
         fully-reusable two-stage launch vehicle, intended to replace all of its
         existing launch vehicles and spacecraft used for satellite delivery and
-        human transport—Falcon 9, Falcon Heavy and Dragon—and also eventually
-        support flights to the Moon and Mars. In addition, it could be used for
-        point-to-point transportation on Earth.
+        human transport—Falcon 9, Falcon Heavy and Dragon. It is designed to
+        carry cargo and pasengers for long durations, to eventually support
+        flights to the Moon and Mars. In addition, it could be used commercially
+        for point-to-point transportation on Earth.
+      </p>
+
+      <p>
+        They have been iteratively designing, prototyping and testing Starship
+        since 2018. Since then, there have been 22 prototypes in existence.
+        However, only 12 have been on the launch site, and 8 from the 12 have
+        flown. This is in fact because SpaceX likes to prototype <span
+        class="text-italic">at speed</span>. Sometimes they scrap prototypes
+        early, repurposing them to do other tests, or to build the next
+        innovative iteration. They are also not afraid to make failures in the
+        process.
+      </p>
+
+      <!-- quote -->
+
+      <p>
       </p>
     </div>
   </q-page>
