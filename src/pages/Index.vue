@@ -143,8 +143,42 @@
         ever reached more than 3 launch counts.
       </p>
 
-      <q-card class="q-pa-md q-my-md"><BoosterLaunchesBarChart/></q-card>
-      <q-card class="q-pa-md q-my-md"><BoosterLaunchesPieChart/></q-card>
+      <q-card class="q-pa-md q-my-md">
+        <q-btn-toggle
+          v-model="byBoosters"
+          class="q-my-md"
+          no-caps
+          rounded
+          toggle-color="primary"
+          color="white"
+          text-color="primary"
+          :options="[
+            {label: 'By Boosters', value: true},
+            {label: 'By Landing Status', value: false}
+          ]"
+        />
+          <BoosterLaunchesBarChart v-if="byBoosters"/>
+          <BoosterLaunchesPieChart v-else/>
+        </q-card>
+
+      <p class="q-my-xl">
+        They've also been <span class="text-bold">dominating</span> the space
+        launch market. Since 2017, SpaceX's rockets—Falcon 9 and Falcon Heavy—
+        have delivered the highest number of launches compared to its
+        competitors in the market, like Ariane 5 from European Space
+        Agency(ESA), Proton-M and Soyuz-2 from the Soviet, and others.
+      </p>
+
+      <q-banner rounded class="bg-purple-4 text-white q-mb-md">
+        <p class="text-bold text-h6 q-mt-sm"><q-icon name="info" class="q-mr-sm"/>Tip</p>
+        <p style="font-size: 1.05rem">
+        You can hover on the rocket names to make the chart highlight its line.
+        </p>
+      </q-banner>
+
+      <q-card class="q-pa-md q-my-md">
+        <SpaceLaunchMarketLineChart />
+      </q-card>
 
       <p class="q-mt-xl">
         In April 2020, SpaceX made yet another first in history by flying 4
@@ -233,25 +267,39 @@
 <script>
 import BoosterLaunchesBarChart from '../components/Charts/BoosterLaunchesBarChart'
 import BoosterLaunchesPieChart from '../components/Charts/BoosterLaunchesPieChart'
+import SpaceLaunchMarketLineChart from '../components/Charts/SpaceLaunchMarketLineChart.vue'
+
 export default {
   name: 'PageIndex',
+
   components: {
     BoosterLaunchesBarChart,
     BoosterLaunchesPieChart,
+    SpaceLaunchMarketLineChart,
+  },
+
+  data() {
+    return {
+      byBoosters: true,
+    }
   }
 }
 </script>
 
 <style>
+p {
+  font-size: 1.3rem;
+}
+
+figcaption {
+  color: #626262;
+}
+
 .page {
   margin: 50px auto;
   padding: 0 40px;
   word-wrap: break-word;
   font-family: Helvetica, sans-serif;
-}
-
-.text-body1 {
-  font-size: 1.15rem;
 }
 
 @media (min-width: 786px) {
@@ -262,11 +310,7 @@ export default {
 
 @media (min-width: 1280px) {
   .page {
-      max-width: 1100px;
+      max-width: 1000px;
   }
-}
-
-figcaption {
-  color: #626262;
 }
 </style>
