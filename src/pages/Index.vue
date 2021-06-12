@@ -5,12 +5,18 @@
       Can the human civilization go to the moon–again, this time
       powered by low cost, reusable rockets?
     </span>
-    <div class="text-body1 q-mt-xl">
+    <div class="q-mt-xl">
 
       <h2>The Human and Space Chronicle</h2>
 
       <p>
-        First, a recap. Our space story started in the 20th century, during the
+        First, a recap. To answer the question "Can the human civilization go
+        to the moon again?", we must first answer the question "Why did we go in the first
+        place?".
+      </p>
+
+      <p>
+        Our space story started in the 20th century, during the
         Cold War.  The Soviets launched the first ever man-made object into
         orbit, the Sputnik 1, after advancements in space technology made
         possible by the WWII.  This event triggered what we know today as the
@@ -18,25 +24,32 @@
       </p>
 
       <p>
-        NASA was born short after. For the next years, two giants–the US and the
+        NASA was born short after and for the next years, two giants–the US and the
         Soviets–made an international space show by dumping their money to prove
         who has the better technology to the world. The space programs were
-        televised to show off their greatness to the world, simultaneously
-        pissing their rival off. For almost a decade later, we saw the giants
-        furiously sending men to space, ending with the US sending Neil
-        Armstrong to the moon in July of 1969. This continued to the year 1972,
-        and by then we have sent a total of 12 humans to walk on the moon.
+        televised with the purpose of showing off how great they are,
+        simultaneously pissing their rival off. For almost a decade later, what
+        we saw was the giants furiously sending men to space, ending with the US
+        sending Neil Armstrong to the moon in July of 1969. This continued to
+        the year 1972, and by then we have sent a total of 12 humans to walk on
+        the moon.
       </p>
 
       <p>
         Humans got super excited. We were expecting to push our boundaries far
-        beyond what we were capable of. It was that same feeling of discovering
-        again, like when we first sailed across the ocean. However, for the next
-        49 years, the people-on-the-moon count is stil...12, and we don't have
-        anything new planned, at all. The Space Race was just two giants being
-        cocky during a war crisis, after all. After it ended with one's satisfied
-        ego, and the other's shame, the two nations don't find it worth to spend
-        their fortunes to go beyond the orbit anymore.
+        beyond what we were capable of. <span class="text-italic">A Moon base?
+        We can do it. There's nothing that we can't do!</span> It was that
+        same feeling of discovering again, like when we first sailed across the
+        ocean.
+      </p>
+
+      <p>
+        However for the next 49 years, the people-on-the-moon count is
+        stil...12, and we don't have anything new planned, <span class="text-italic">
+        at all</span>. The Space Race was just two giants being cocky during a
+        war crisis, after all.  After it ended with one's satisfied ego, and the
+        other's shame, the two nations don't find it worth to spend their fortunes
+        to go beyond the orbit anymore.
       </p>
 
       <p>
