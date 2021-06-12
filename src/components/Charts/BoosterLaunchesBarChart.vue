@@ -23,7 +23,11 @@ export default {
           text: 'Block 5 Booster Launches by Boosters'
         },
         xaxis: {
+          title: { text: 'Booster Name' },
           categories: []
+        },
+        yaxis: {
+          title: { text: 'Number of Launches' },
         },
         theme: {
           palette: 'palette8'
