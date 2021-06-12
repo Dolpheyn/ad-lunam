@@ -205,14 +205,14 @@
 
       <p>
         SpaceX's reusable rockets are already proven to be safe, flight proven
-        and have been used by many customers around the world. Their
-        customers includes big names like NASA, the USAF, and South Korea! These
-        customers have been using SpaceX's services for launching communication,
-        surveillance, and scientific satellites,
-        <span><a href="https://en.wikipedia.org/wiki/Commercial_Resupply_Services">
-        sending cargo and supplies to the ISS</a></span>, and more. Let's explore who
-        have been trusting SpaceX, using their reusable rokets that are provided by their
-        services.
+        and have been used by many customers around the world. Their customers
+        includes big names like NASA, the USAF, and South Korea! These customers
+        have been using SpaceX's services for launching communication,
+        surveillance, and scientific satellites, <span><a
+        href="https://en.wikipedia.org/wiki/Commercial_Resupply_Services">
+        sending cargo and supplies to the ISS</a></span>, and more. Let's
+        explore who have been trusting SpaceX, using their reusable rokets that
+        are provided by their services.
       </p>
 
       <p class="text-center text-overline">
@@ -220,7 +220,7 @@
       </p>
 
       <q-banner rounded class="bg-purple-4 text-white q-mb-md">
-        <p class="text-bold text-h6 q-mt-md"><q-icon name="info" class="q-mr-sm"/>Tip</p>
+        <p class="text-bold text-h6 q-mt-sm"><q-icon name="info" class="q-mr-sm"/>Tip</p>
         <p style="font-size: 1.05rem">
         You can hover on the mission names to get more information.
         </p>
@@ -242,20 +242,22 @@
           style="width: 100%;"
         >
         <em>
-        <figcaption>Illustration of Spacex's Spaceship lunar lander on the moon,
-          as per proposal to NASA for its Artemis program. | image: SpaceX</figcaption>
+          <figcaption>
+            Illustration of Spacex's Spaceship lunar lander on the moon, as per
+            proposal to NASA for its Artemis program. | image: SpaceX
+          </figcaption>
       </em>
       </figure>
 
       <p>
         As of 2021, <span class="bank-gothic text-h6">SpaceX</span> is actively
-        developing the Starship system, with the intent to make it a
-        fully-reusable two-stage launch vehicle, intended to replace all of its
-        existing launch vehicles and spacecraft used for satellite delivery and
-        human transport—Falcon 9, Falcon Heavy and Dragon. It is designed to
-        carry cargo and pasengers for long durations, to eventually support
-        flights to the Moon and Mars. In addition, it could be used commercially
-        for point-to-point transportation on Earth.
+        developing the Starship system, which is planned to be a fully-reusable
+        two-stage launch vehicle, intended to replace all of its existing launch
+        vehicles and spacecraft used for satellite delivery and human
+        transport—Falcon 9, Falcon Heavy and Dragon. It is designed to carry
+        cargo and pasengers for long durations, to eventually support flights to
+        the Moon and Mars. In addition, it could be used commercially for
+        point-to-point transportation on Earth.
       </p>
 
       <p>
