@@ -1,13 +1,13 @@
 <template>
   <q-page class="page">
-    <h1 class="text-h1">Ad Lunam 🌑</h1>
+    <h1 class="text-h2">Ad Lunam 🌑</h1>
     <span class="text-h5">
       Can the human civilization go to the moon–again, this time
       powered by low cost, reusable rockets?
     </span>
     <div class="q-mt-xl">
 
-      <h2>The Human and Space Chronicle</h2>
+      <h2 class="text-h3">The Human and Space Chronicle</h2>
 
       <p>
         First, a recap. To answer the question "Can the human civilization go
@@ -57,7 +57,7 @@
         showed up.
       </p>
 
-      <h2>History of <span class="bank-gothic">SpaceX</span></h2>
+      <h2 class="text-h3">History of <span class="bank-gothic">SpaceX</span></h2>
 
       <p>
         <span class="bank-gothic text-h6">SpaceX</span>
@@ -101,7 +101,7 @@
         frameborder='0'
       />
 
-      <h2>Reusable Rockets 🚀</h2>
+      <h2 class="text-h3">Reusable Rockets 🚀</h2>
 
       <figure class="q-mx-none">
         <img
@@ -233,7 +233,7 @@
         src="https://observablehq.com/embed/d65ba7542711e4bf?cells=chart"
       />
 
-      <h2>The Starship</h2>
+      <h2 class="text-h3">The Starship</h2>
 
       <figure class="q-mx-none">
         <img
@@ -271,6 +271,19 @@
         process.
       </p>
 
+      <p>
+        Notably, Starship, SpaceX’s fully reusable rocket system under development to eventually
+        ferry humans and cargo to the Moon and Mars, won NASA’s award mainly for its massive cargo
+        capability and its proposed bid of $2.9 billion — far cheaper than their compatitors,
+        according to a NASA source selection document.
+      </p>
+
+      <p>
+        So, yes! We <i>are</i> going to the moon again with reusable rockets. Right now, it's only the
+        question of <b>when</b>. In the near future, space travel will be very much closer to all of
+        us, and we should be <i>very</i> excited for that.
+      </p>
+
       <!-- quote -->
 
       <p>
@@ -303,7 +316,7 @@ export default {
 
 <style>
 p {
-  font-size: 1.3rem;
+  font-size: 1.2rem;
 }
 
 figcaption {
