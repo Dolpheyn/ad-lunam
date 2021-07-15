@@ -15,28 +15,20 @@
     </q-header>
 
     <q-drawer show-if-above v-model="left" side="left" overlay bordered>
-      <!-- drawer content -->
-      <ul>
-        <li>Introduction</li>
-        <li>History</li>
-        <li>Reusable Rockets</li>
-        <ul>
-          <li>Falcon 1</li>
-          <li>Falcon 9</li>
-          <li>Falcon Heavy</li>
-          <li>Dragon</li>
-        </ul>
-        <li>Starship</li>
-        <li>Starlink</li>
-      </ul>
-      <ul>
-        <li>link</li>
-        <li>to</li>
-        <li>SpaceX</li>
-        <li>website,</li>
-        <li>youtube,</li>
-        <li>twitter</li>
-      </ul>
+       <q-list>
+         <q-item-label
+           header
+           class="text-black text-bold"
+         >
+           Navigation
+         </q-item-label>
+
+         <EssentialLink
+           v-for="link in essentialLinks"
+          :key="link.title"
+          v-bind="link"
+        />
+      </q-list>
     </q-drawer>
     <q-page-container>
       <router-view />
@@ -46,11 +38,26 @@
 </template>
 
 <script>
+import EssentialLink from 'components/EssentialLink.vue'
+
 export default {
+  components: {
+    EssentialLink
+  },
   data() {
     return {
       left: false,
-      right: false
+      right: false,
+      essentialLinks: [
+        {
+          title: 'Home',
+          link: '/'
+        },
+        {
+          title: 'About',
+          link: '/about'
+        },
+      ]
     }
   }
 }
