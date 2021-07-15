@@ -3,10 +3,10 @@
     <h1 class="text-h2">About</h1>
 
     <p>
-      We are students from group CS2595A of Bachelor of Systems
-      in Intelligent Systems Engineering from UiTM. This site is
-      one of the group assignment deliverables for the subject
-      Data Representation and Reporting Techniques(DSC651).
+      We are the students from group CS2595A of Bachelor of Systems
+      in Intelligent Systems Engineering from UiTM. This site is one
+      of the group assignment deliverables for the subject: Data
+      Representation and Reporting Techniques(DSC651).
     </p>
 
     <p class="q-mb-xl">
