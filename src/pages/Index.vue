@@ -1,6 +1,6 @@
 <template>
   <q-page class="page">
-    <h1 class="text-h2">Ad Lunam 🌑</h1>
+    <h1 class="text-h2">Ad Lunam 🌑🌑🌑</h1>
     <span class="text-h5">
       Can the human civilization go to the moon–again, this time
       powered by low cost, reusable rockets?
