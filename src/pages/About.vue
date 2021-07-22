@@ -70,48 +70,60 @@
         />
       </q-card-section>
     </div>
+
+    <h1 class="text-h2">Data Sources</h1>
+
+    <p>
+      The sources of data we used to create the visualizations:
+    </p>
+
+    <q-list bordered separator>
+      <q-item
+        clickable
+        v-ripple
+        tag="a"
+        target="_blank"
+        v-for="dataSource in dataSources"
+        :key="dataSource.title"
+        :href="dataSource.link"
+      >
+        <q-item-section>
+          <q-item-label>{{dataSource.title}}</q-item-label>
+
+          <q-item-label caption>
+            {{dataSource.caption}}
+          </q-item-label>
+        </q-item-section>
+      </q-item>
+    </q-list>
   </q-page>
 </template>
 
 <script>
+const dataSources = [
+  {
+    title: 'r/SpaceX API',
+    caption: '🚀 Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.',
+    link: 'https://github.com/r-spacex/SpaceX-API'
+  },
+  {
+    title: 'Wikipedia',
+    caption: 'List of Falcon 9 first-stage boosters',
+    link: 'https://en.wikipedia.org/wiki/List_of_Falcon_9_first-stage_boosters'
+  },
+  {
+    title: 'Wikipedia',
+    caption: 'Space launch market competition',
+    link: 'https://en.wikipedia.org/wiki/Space_launch_market_competition'
+  },
+]
 export default {
   name: 'PageIndex',
 
-  components: {
-  },
-
   data() {
     return {
+      dataSources
     }
   }
 }
 </script>
-
-<style>
-p {
-  font-size: 1.3rem;
-}
-
-figcaption {
-  color: #626262;
-}
-
-.page {
-  margin: 50px auto;
-  padding: 0 40px;
-  word-wrap: break-word;
-  font-family: Helvetica, sans-serif;
-}
-
-@media (min-width: 786px) {
-  .page {
-      max-width: 720px;
-  }
-}
-
-@media (min-width: 1280px) {
-  .page {
-      max-width: 1000px;
-  }
-}
-</style>
